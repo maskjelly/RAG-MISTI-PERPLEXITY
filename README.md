@@ -1,0 +1,1 @@
+A RAG application with browsing capabilities and fetch data with summarization 
